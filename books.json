@@ -1,0 +1,206 @@
+{
+    "book0": {
+        "id": "book0",
+        "title": "Sacrifice Moon",
+        "author": "Julie Fortune",
+        "description": "Description of Sacrifice Moon.",
+        "year": 2006,
+        "image": "assets\/book_cover_1.png",
+        "planet": "P3X-1234",
+        "genre": "Science Fiction",
+        "ratings": [
+            5,
+            4,
+            4,
+            3,
+            5,
+            4,
+            4,
+            4
+        ],
+        "evaluations": [
+            {
+                "username": "user1",
+                "rating": 5,
+                "comment": "Amazing book!"
+            },
+            {
+                "username": "user2",
+                "rating": 4,
+                "comment": "Great read."
+            },
+            {
+                "username": "ashidaqi",
+                "rating": 4,
+                "comment": "I liked it pretty much"
+            },
+            {
+                "username": "teacher",
+                "rating": 4,
+                "comment": "Testing comments"
+            },
+            {
+                "username": "teacher",
+                "rating": 4,
+                "comment": "Testing comments"
+            }
+        ]
+    },
+    "book1": {
+        "id": "book1",
+        "title": "City of the Gods",
+        "author": "Sonny Whitelaw",
+        "description": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops. A definitive Greek ancestry decorates the structures, as well as the clothing of the Argosians, the planets occupants who preferred to call themselves the Chosen. For some time Pelops operated on the planet, experimenting on the human population, much like Nirrti has done, attempting to expand their lifespan.",
+        "year": 2005,
+        "image": "assets\/book_cover_2.png",
+        "planet": "P3X-8596",
+        "genre": "Adventure",
+        "ratings": [
+            4,
+            4,
+            3,
+            5,
+            4
+        ],
+        "evaluations": [
+            {
+                "username": "user1",
+                "rating": 4,
+                "comment": "Informative and interesting."
+            },
+            {
+                "username": "user3",
+                "rating": 3,
+                "comment": "Good, but could be better."
+            }
+        ]
+    },
+    "book2": {
+        "id": "book2",
+        "title": "Barque of Heaven",
+        "author": "Suzanne Wood",
+        "description": "Description of Barque of Heaven.",
+        "year": 2008,
+        "image": "assets\/book_cover_3.png",
+        "planet": "P3X-5678",
+        "genre": "Fantasy",
+        "ratings": [
+            3,
+            3,
+            4,
+            2,
+            4
+        ],
+        "evaluations": [
+            {
+                "username": "user2",
+                "rating": 3,
+                "comment": "Decent read."
+            },
+            {
+                "username": "user1",
+                "rating": 4,
+                "comment": "Quite enjoyable."
+            }
+        ]
+    },
+    "book3": {
+        "id": "book3",
+        "title": "Valhalla",
+        "author": "Tim Waggoner",
+        "description": "Description of Valhalla.",
+        "year": 2010,
+        "image": "assets\/book_cover_4.png",
+        "planet": "P3X-8765",
+        "genre": "Science Fiction",
+        "ratings": [
+            4,
+            4,
+            5,
+            4,
+            5
+        ],
+        "evaluations": [
+            {
+                "username": "user3",
+                "rating": 5,
+                "comment": "Epic story!"
+            },
+            {
+                "username": "user2",
+                "rating": 4,
+                "comment": "Very well written."
+            }
+        ]
+    },
+    "book4": {
+        "id": "book4",
+        "title": "Heart's Desire",
+        "author": "Amy Griswold",
+        "description": "Description of Heart's Desire.",
+        "year": 2012,
+        "image": "assets\/book_cover_5.png",
+        "planet": "P3X-4321",
+        "genre": "Romance",
+        "ratings": [
+            5,
+            5,
+            4,
+            5,
+            5
+        ],
+        "evaluations": [
+            {
+                "username": "user1",
+                "rating": 5,
+                "comment": "Absolutely loved it!"
+            },
+            {
+                "username": "user2",
+                "rating": 4,
+                "comment": "Great book."
+            }
+        ]
+    },
+    "book5": {
+        "id": "book5",
+        "title": "Female of the Species",
+        "author": "Geonn Cannon",
+        "description": "Description of Female of the Species.",
+        "year": 2015,
+        "image": "assets\/book_cover_6.png",
+        "planet": "P3X-9876",
+        "genre": "Mystery",
+        "ratings": [
+            4,
+            4,
+            3,
+            4,
+            4
+        ],
+        "evaluations": [
+            {
+                "username": "user3",
+                "rating": 4,
+                "comment": "Interesting read."
+            },
+            {
+                "username": "user1",
+                "rating": 3,
+                "comment": "Good but not great."
+            }
+        ]
+    },
+    "6669d05cf1791": {
+        "id": "6669d05cf1791",
+        "title": "smoothen",
+        "author": "asdfasd",
+        "description": "asdfdsf",
+        "year": 2230,
+        "image": "uploads\/mission-survive.jpeg",
+        "planet": "asd",
+        "genre": "asdfsd",
+        "ratings": [],
+        "evaluations": []
+    }
+}
