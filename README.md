@@ -107,3 +107,69 @@ User Password
 User's last login
 
 Admin authority
+
+### Base tasks
+[X] Main page: appears
+
+[X]  Main page: list of all books, e.g. with pictures
+
+[X]  Main page: clicking on the name of the book takes you to the corresponding book details page
+
+[X]  Book details: The book details are displayed.
+
+[X]  Book details: The book cover is displayed.
+
+[X]  Admin: Create a new book: error handling, successful save
+
+### The main tasks (14 points)
+[X]  Book details: The book's average rating is displayed.
+
+[X]  Book details: The evaluations for the book are displayed.
+
+[X]  Registration form: Contains appropriate elements
+
+[X]  Registration form: Handling of error cases, error message, status maintenance
+
+[X]  Registration form: Successful registration
+
+[X]  Login: Handling faulty cases
+
+[X]  Login: Successful login
+
+[X]  Logout
+
+[X]  Main page: The user's name is displayed
+
+[X] Main page: Clicking on the user name will take you to the user's details page.
+
+[X] Main page: Books can be filtered by genre.
+
+[X] User details: The user's name, e-mail address, and last login date are displayed.
+
+[X] User details: The evaluations written by the user are displayed.
+
+[X] Admin: You can log in with the data of the admin user
+
+[X] Admin: Creating a new book is only available with the Admin user
+
+[X] Evaluation: The evaluation form appears.
+
+[X] Evaluation: The form contains the correct elements.
+
+[X] Evaluation: Handling faulty cases, error messages, and status maintenance.
+
+[X] Admin: Modification of book data: available with admin user
+
+[X] Demanding design
+
+### Extra tasks 
+
+[X]  Main page: The books are sorted by average rating.
+
+[X]  Admin: Modification of book data: error handling, status maintenance, successful saving
+
+[X]  Book details: Logged-in users should be able to mark books as read.
+
+[X]  Book details: The users who have read the given book are displayed, with the time of reading.
+
+[X]  User details: The books read by the user are displayed, in descending order according to the time of reading.
